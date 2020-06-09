@@ -1,0 +1,2 @@
+C:\Users\KB\source\repos\UnitConver\Debug\UnitConver.exe
+C:\Users\KB\source\repos\UnitConver\Debug\UnitConver.pdb
