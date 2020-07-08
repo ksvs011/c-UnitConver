@@ -8,16 +8,15 @@
 ### 결과
 
 - 메뉴화면
+     ![0번](https://user-images.githubusercontent.com/60810356/86862010-526a9200-c103-11ea-97fa-81b156ff338d.PNG)
 
-![0번](https://user-images.githubusercontent.com/60810356/86862010-526a9200-c103-11ea-97fa-81b156ff338d.PNG)
 
-- inch -> cm
+- inch -> cm 
+ ![1-1](https://user-images.githubusercontent.com/60810356/86862251-d15fca80-c103-11ea-87bc-27087805b463.PNG)
 
-![1-1](https://user-images.githubusercontent.com/60810356/86862251-d15fca80-c103-11ea-87bc-27087805b463.PNG)
 
 - cm -> inch
-
-![2-1](https://user-images.githubusercontent.com/60810356/86862303-e76d8b00-c103-11ea-8c84-93da7db8684a.PNG)
+    ![2-1](https://user-images.githubusercontent.com/60810356/86862303-e76d8b00-c103-11ea-8c84-93da7db8684a.PNG)
 
 
 
